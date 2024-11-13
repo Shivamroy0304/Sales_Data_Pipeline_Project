@@ -31,7 +31,8 @@ The architecture has several zones, each responsible for different aspects of th
 
 - **Yearly Data Overview**
 - **Country-wise Payment Analysis**
-- **Sales Metrics** ![Dashboard](https://github.com/Shivamroy0304/Sales_Data_Pipeline_Project/blob/main/dashboards/Screenshot%202023-11-06%20at%204.44.48%20PM.png)
+- **Sales Metrics** ![Dashboard](https://github.com/Shivamroy0304/Sales_Data_Pipeline_Project/blob/main/dashboards/screenshot.png)
+
 
 
 ## Contact
